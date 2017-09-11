@@ -61,7 +61,7 @@ Cuckoo runtime is available through [CocoaPods](http://cocoapods.org). To instal
 it, simply add the following line to your test target in your Podfile:
 
 ```Ruby
-pod "Cuckoo", :git => 'https://github.com/managam/Cuckoo'
+pod 'Cuckoo', :git => 'https://github.com/managam/Cuckoo'
 ```
 
 And add the following `Run script` build phase to your test target's `Build Phases`:
